@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Site</title>
+    <title>Posts on Moshi Moshi</title>
     <link>https://shubhpandey25ug-apu.github.io/posts/</link>
-    <description>Recent content in Posts on My Site</description>
+    <description>Recent content in Posts on Moshi Moshi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 12:24:06 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:24:06 +0530</lastBuildDate>
     <atom:link href="https://shubhpandey25ug-apu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>About Unit 4</title>
+      <link>https://shubhpandey25ug-apu.github.io/posts/fourth/</link>
+      <pubDate>Fri, 08 May 2026 12:24:06 +0530</pubDate>
+      <guid>https://shubhpandey25ug-apu.github.io/posts/fourth/</guid>
+      <description>&lt;h1 id=&#34;projects-on-communicating-information&#34;&gt;Projects on Communicating Information&lt;/h1&gt;&#xA;&lt;p&gt;I found the unit 4 of my BRIS course really very (or say most) engaging as it had so much hands-on work. We have hands-on experiences in most of our lab sessions and assessments in this course but still this was somehow more interesting as compared to any of them.&lt;br&gt;&#xA;The unit consisted of two projects namely &lt;strong&gt;“Chatbot”&lt;/strong&gt; and &lt;strong&gt;“Metabase Dashboard”&lt;/strong&gt;. Talking about them one by one, the Chatbot refers to a chatbot creation project. We used “Typebot” as the platform to create this chatbot. The platform was easy to operate on and the user interface was also very helpful. I made a Chatbot for perspective students for Azim Premji University giving all the basic details they should know starting from admission details, programs offered, fees sturcture and scholarship criteria to all the way to campus life and hostel facilities. This was really fun writing about my own campus and I can relate to how the student would be feeling while searching for these details as I was also very curious to know more and more about the university just a year ago.&lt;br&gt;&#xA;We weren&amp;rsquo;t provided with much resource but whatever the instructor told and showcased from the demo chatbot was enough. I searched a little on youtube and some random sites about chatbot making on typebot. The website of typebot itself was very helpful. The main rationale of this project was to make us able to develop some prototype in a short span of time on our own which I think succeeded to a large extent. I was lost with the flow of the chatbot at first but then after taking some time, I was able to make a good flow and deploy it.&lt;br&gt;&#xA;&lt;em&gt;Secondly,&lt;/em&gt; the Metabase dashboard, this took comparably less time but more brain storming about the question which i should discuss. Yeah, we were provided with data from pollution centers from all over India, out of which we had to discuss a certain question using some number of graphs to represent the data and make sense of a larger picture. This platform (dashboard) was also very user-friendly and I really liked the variety of graphs provided there. I enjoyed customising the graphs according to the questions I was taking.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Unit 3</title>
+      <link>https://shubhpandey25ug-apu.github.io/posts/third/</link>
+      <pubDate>Fri, 03 Apr 2026 12:24:06 +0530</pubDate>
+      <guid>https://shubhpandey25ug-apu.github.io/posts/third/</guid>
+      <description>&lt;h1 id=&#34;reflecting-on-failure&#34;&gt;Reflecting On Failure&lt;/h1&gt;&#xA;&lt;p&gt;While we are doing programming, data representation, or any kind of technical stuff, it is very common for errors to happen. No doubt these errors or irregularities can be frustrating sometimes. It may feel like giving up or similar to that. Here comes the importance of reflecting on failure into the picture. We must know that failures are the best source to learn and even it is subjective learning (what is best for each individual) and hence, we can dive into the sites of improvement required for us. &lt;br&gt;&#xA;In this unit, we got to work on some case studies of famous failures in the technical field. It was group work as well so I got to collaborate and coordinate with some of my classmates and got to correct each other on points where needed.&lt;em&gt;This was the best assessment so far in this course&lt;/em&gt;. The case study assigned to our group was the &lt;strong&gt;Y2k bug&lt;/strong&gt;. This is also known as &lt;em&gt;the Millenium bug or 2000&amp;rsquo;s bug.&lt;/em&gt; The thing was that, programmers in the late 1900s used to denote year by only the last two digits &lt;em&gt;e.g. &amp;ldquo;89&amp;rdquo; for 1989.&lt;/em&gt; As soon as the time came closer to the 90s, people started worrying about what would happen at midnight of 31st December,1999 when the cloak would reach at 12:00 am. Will all the computer systems stop working? all the digital equipment start to act on their own?  Will the world end? Of course not. Our very existence is the answer that nothing like this happened. Still, some mistakes were seen like some babies born in 2000 got their birth year printed as 1900, some systems interpreted the &amp;ldquo;00&amp;rdquo; as 1900 and printed the same on the bill receipts. To rectify this bug and completely replace it with four digits year in dates, companies from the United States of America spent 100,000,000,000 $ (Hundred Billion USD) together, still no one died due to this &lt;strong&gt;&amp;ldquo;Y2K catastrophe&amp;rdquo;&lt;/strong&gt;.   &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Unit 2</title>
+      <link>https://shubhpandey25ug-apu.github.io/posts/second/</link>
+      <pubDate>Sat, 28 Feb 2026 12:24:06 +0530</pubDate>
+      <guid>https://shubhpandey25ug-apu.github.io/posts/second/</guid>
+      <description>&lt;h1 id=&#34;the-nature-of-information-problems&#34;&gt;The nature of information problems&lt;/h1&gt;&#xA;&lt;p&gt;The second unit begins with basics about images. I was already familiar with terms like pixels, bits, and bytes, so the earlier classes went well, and I was able to connect really well. The concept of greyscale image and its differentiation with colored images through the approach of RGB was interesting.   &lt;/p&gt;&#xA;&lt;p&gt;Then we did some transformative operations on images. These were so much similar to the next pattern of problems we do for mental reasoning. I was astonished to know its applications as they are the basic operation behind digital animation or effects of the video games we do play.   &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Unit 1</title>
       <link>https://shubhpandey25ug-apu.github.io/posts/first/</link>
       <pubDate>Wed, 28 Jan 2026 12:24:06 +0530</pubDate>
       <guid>https://shubhpandey25ug-apu.github.io/posts/first/</guid>
-      <description>&lt;h1 id=&#34;notepad&#34;&gt;NotePad&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;what-is-information&#34;&gt;What Is Information?&lt;/h1&gt;&#xA;&lt;p&gt;My course &lt;strong&gt;BRIS&lt;/strong&gt; in Semester second began with the unit namely &lt;em&gt;What is information?&lt;/em&gt; From the name of both the course (becoming a reflective information scientist) and the unit, i had an expectation to learn about things related to information like Gathering it, representing, analyzing, etc. the flow of this unit successes in fulfilling most of those expectations. In the start of this period of almost 3 weeks,  we got to learn about data-information-knowledge-wisdom model (DIKW), which is popular in the information systems literature, with its critiques. This part was a really good start but what I personally found more interesting was the later concepts like Introduction to markdown and wiki and more hands-on practices on wiki.&lt;br&gt;&#xA;I made my first GitHub account and learnt about how we can have a track of changes/ edits made in our code. these topics where interesting to learn and kept me engaged. i found setting my blog site a bit difficult due to some mistakes I made during creating the repository. I tried troubleshooting it a number of times and then even took help of my groupmates. When nothing worked, with the help of my instructor, i was able to deploy my website.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
